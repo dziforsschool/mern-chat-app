@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon ./backend/server.js",
-    "server": "nodemon ./backend/server.js --ignore client"
+    "start": "nodemon ./backend/server.js"
   },
   "author": "grafika dzifors",
   "license": "ISC",
