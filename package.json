@@ -1,10 +1,11 @@
 {
-  "name": "chat-lts",
+  "name": "727-chat",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon ./backend/server.js"
+    "start": "nodemon ./backend/server.js",
+    "server": "nodemon ./backend/server.js --ignore client"
   },
   "author": "grafika dzifors",
   "license": "ISC",
